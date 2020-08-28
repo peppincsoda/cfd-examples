@@ -1,0 +1,8 @@
+
++ This is an example solver for 2D steady state heat conduction problem using FVM
+
++ In software development it is often useful to start with a quick-and-dirty solution to a problem before going into the details.
+This helps to find out if the idea works as soon as possible and also gives confidence for the implementation. It is easier to work on
+code that already does something
+
+If you are new to FVM solvers or to solvers in general, this example might give you a good starting point to learn and experiment with algorithms.
